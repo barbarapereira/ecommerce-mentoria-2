@@ -78,10 +78,6 @@ npx nx serve
 
 O projeto será servido por padrão em http://localhost:4200/.
 
-## Protótipo inicial
-![image](https://github.com/barbarapereira/ecommerce-mentoria-2/assets/38231311/413790a2-9548-4d73-be6d-0a833cb1ed75)
-
-
 ## Executar tarefas independentes
 
 ```
